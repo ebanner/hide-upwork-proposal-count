@@ -2,6 +2,10 @@
 
 Hide the number of proposals submitted for upwork tasks
 
-## Example
+## Before
 
-![Screenshot 2024-04-29 at 9 41 55 AM](https://github.com/ebanner/hide-upwork-proposal-count/assets/2068912/a3c5a31c-7ad4-439e-beed-46ef39cbda98)
+![Screenshot 2024-04-29 at 9 43 58 AM](https://github.com/ebanner/hide-upwork-proposal-count/assets/2068912/0f47a622-9059-43b6-8704-55b276393fa5)
+
+## After
+
+![Screenshot 2024-04-29 at 9 43 58 AM](https://github.com/ebanner/hide-upwork-proposal-count/assets/2068912/645851e7-03c8-447e-99d7-463129f59478)
